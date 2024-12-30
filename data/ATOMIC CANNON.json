@@ -1,1 +1,18 @@
-
+{
+    "id": 77681476,
+    "name": "ATOMIC CANNON",
+    "author": "LIEB",
+    "creators": ["LIEB"],
+    "verifier": "zLeo",
+    "verification": "https://youtu.be/q_lk4Xpy0e4",
+    "percentToQualify": "58",
+    "password": "Copyable",
+    "records": [
+{
+            "user": "wFishe",
+            "link": "https://www.youtube.com/watch?v=cgu7Ui-umEc&list=PLHph8k_u1Vkk4Z1UinbleMWJ2ti3OC5RK&index=20",
+            "percent": 100,
+            "hz": 288
+        }
+    ]
+}
